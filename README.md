@@ -73,12 +73,6 @@
       </a>
       <br>Ansible
     </td>
-    <td align="center" width="96">
-      <a href="#DevOfTheGrandLine-tech">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/projects/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" />
-      </a>
-      <br>PostgreSQL
-    </td>
   </tr>
   <tr>
     <td align="center" width="96">
