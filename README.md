@@ -1,101 +1,96 @@
-<h1 align="left" id="macropower-title">:wave: Hello there! I'm Dmitry Konkin</h1>
-<h3 align="left">I do SW/SR/Platform/DevOps Engineering things</h3>
+<h1 align="left" id="DevOfTheGrandLine-title">:wave: Привет! Я Дмитрий Конкин</h1>
+<h3 align="left">Занимаюсь разработкой ПО и DevOps</h3>
 
 <p align="left">
   <a href="https://github.com/DevOfTheGrandLine/DevOfTheGrandLine">
     <img src="https://komarev.com/ghpvc/?username=DevOfTheGrandLine" alt="page views" />
   </a>
-  <a href="https://yourwebsite.com">
-    <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fyourwebsite.com">
-  </a>
-  <a href="https://stackoverflow.com/users/yourid">
-    <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/yourid?color=orange&label=reputation&logo=stackoverflow">
-  </a>
-  <a href="https://www.youtube.com/channel/yourchannel">
-    <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/yourchannel?style=flat&logo=youtube">
+  <a href="https://DevOfTheGrandLine.github.io">
+    <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2FDevOfTheGrandLine.github.io">
   </a>
   <a href="https://github.com/DevOfTheGrandLine?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/DevOfTheGrandLine?style=flat&logo=github">
   </a>
-  <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">
-    <img alt="Awesome" src="https://awesome.re/mentioned-badge.svg">
-  </a>
 </p>
 
-<a href="#macropower-title">
-  <img src="https://raw.githubusercontent.com/DevOfTheGrandLine/github-stats-transparent/output/generated/overview.svg" alt="DevOfTheGrandLine" align="right" />
+<a href="#DevOfTheGrandLine-title">
+  <img src="https://github-readme-stats.vercel.app/api?username=DevOfTheGrandLine&show_icons=true&theme=dark" alt="DevOfTheGrandLine" align="right" />
 </a>
 
-- :office: &nbsp;I'm currently working at **[IT]**
-- :seedling: &nbsp;I’m currently working on my **[projects]**
-- :speech_balloon: &nbsp;I like to talk about **Tech** and other **OSS**
-- :book: &nbsp;Learn more about my projects on my **[blog]**
-- :mailbox: &nbsp;Ask me anything on my **[issues page]**
-- :computer: &nbsp;Connect with me on **[LinkedIn]**
+- :office: &nbsp;Работаю в **[Neoflex]**
+- :seedling: &nbsp;Сейчас изучаю **Kubernetes и облачные технологии**
+- :speech_balloon: &nbsp;Люблю обсуждать **DevOps практики и автоматизацию**
+- :mailbox: &nbsp;Можете задать вопросы в **[Issues]**
+- :computer: &nbsp;Свяжитесь со мной в **[LinkedIn]**
 
 <br>
 
-<h2 align="left" id="macropower-tech">Favorite Tech</h2>
+<h2 align="left" id="DevOfTheGrandLine-tech">Любимые технологии</h2>
 
-> Tools, languages, and other things that I like to work with.
+> Инструменты и языки, с которыми я предпочитаю работать.
 
 <table>
   <tr>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/go-flat.svg" width="48" height="48" alt="Golang" />
+      <a href="#DevOfTheGrandLine-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" />
+      </a>
+      <br>C++
+    </td>
+    <td align="center" width="96">
+      <a href="#DevOfTheGrandLine-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="48" height="48" alt="Golang" />
       </a>
       <br>Go
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
+      <a href="#DevOfTheGrandLine-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
       </a>
       <br>Python
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://jsonnet.org/img/isologo.svg" width="48" height="48" alt="Jsonnet" />
+      <a href="#DevOfTheGrandLine-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="48" height="48" alt="Terraform" />
       </a>
-      <br>Jsonnet
+      <br>Terraform
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
-      </a>
-      <br>Kubernetes
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
+      <a href="#DevOfTheGrandLine-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
       </a>
       <br>Docker
     </td>
-    <td align="center"  width="96">
-      <a href="#macropower-tech">
-        <img src="./img/debian-original.svg" width="48" height="48" alt="Debian" />
+    <td align="center" width="96">
+      <a href="#DevOfTheGrandLine-tech">
+        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
       </a>
-      <br>Debian
+      <br>K8s
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/grafana/grafana/master/public/img/grafana_icon.svg" width="48" height="48" alt="Grafana" />
+      <a href="#DevOfTheGrandLine-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
       </a>
-      <br>Grafana
+      <br>Linux
+    </td>
+    <td align="center" width="96">
+      <a href="#DevOfTheGrandLine-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="48" height="48" alt="Bash" />
+      </a>
+      <br>Bash
     </td>
   </tr>
 </table>
 
-<h2 align="left">Coding Activity</h2>
+<h2 align="left">Активность</h2>
 
-> Total logged open-source coding time since 2020-07-19. Updated every 1 hour.
+<!-- GitHub Stats -->
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=DevOfTheGrandLine&theme=dark)
 
-<!-- prettier-ignore-start -->
-<!-- START_SECTION:ascii_graph -->
+<!-- Most Used Languages -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevOfTheGrandLine&layout=compact&theme=dark)
 
+<!-- links -->
+
+[issues]: https://github.com/DevOfTheGrandLine/DevOfTheGrandLine/issues "DevOfTheGrandLine/issues"
+[linkedin]: https://www.linkedin.com/in/yourprofile "Ваш LinkedIn"
