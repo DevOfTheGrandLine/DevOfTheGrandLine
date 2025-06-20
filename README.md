@@ -1,5 +1,5 @@
 <h1 align="left" id="DevOfTheGrandLine-title">:wave: Привет! Я Дмитрий Конкин</h1>
-<h3 align="left">Занимаюсь разработкой ПО и DevOps</h3>
+<h3 align="left">Программист, идущий по сложному пути, как по Grand Line</h3>
 
 <p align="left">
   <a href="https://github.com/DevOfTheGrandLine/DevOfTheGrandLine">
@@ -51,6 +51,12 @@
     </td>
     <td align="center" width="96">
       <a href="#DevOfTheGrandLine-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" alt="Java" />
+      </a>
+      <br>Java
+    </td>
+    <td align="center" width="96">
+      <a href="#DevOfTheGrandLine-tech">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="48" height="48" alt="Terraform" />
       </a>
       <br>Terraform
@@ -61,6 +67,20 @@
       </a>
       <br>Docker
     </td>
+    <td align="center" width="96">
+      <a href="#DevOfTheGrandLine-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" width="48" height="48" alt="Ansible" />
+      </a>
+      <br>Ansible
+    </td>
+    <td align="center" width="96">
+      <a href="#DevOfTheGrandLine-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/projects/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" />
+      </a>
+      <br>PostgreSQL
+    </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <a href="#DevOfTheGrandLine-tech">
         <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
