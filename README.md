@@ -1,5 +1,5 @@
-<h1 align="left" id="DevOfTheGrandLine-title">:wave: Привет! Я Дмитрий Конкин</h1>
-<h3 align="left">Программист, идущий по сложному пути, как по Grand Line</h3>
+<h1 align="left" id="DevOfTheGrandLine-title">:wave: Привет! Я Дмитрий Конкин.</h1>
+<h3 align="left">Программист, идущий по сложному пути, как по Grand Line.</h3>
 
 <p align="left">
   <a href="https://github.com/DevOfTheGrandLine/DevOfTheGrandLine">
