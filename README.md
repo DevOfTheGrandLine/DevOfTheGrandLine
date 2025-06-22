@@ -17,7 +17,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=DevOfTheGrandLine&show_icons=true&theme=dark" alt="DevOfTheGrandLine" align="right" />
 </a>
 
-- :office: &nbsp;Работаю в **[Neoflex]**
+- :office: &nbsp;Работаю в **[Neoflex].**
 - :seedling: &nbsp;Сейчас изучаю **Kubernetes и облачные технологии**
 - :speech_balloon: &nbsp;Люблю обсуждать **DevOps практики и автоматизацию**
 - :mailbox: &nbsp;Можете задать вопросы в **[Issues]**
