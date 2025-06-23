@@ -18,7 +18,7 @@
 </a>
 
 - :office: &nbsp;Работаю в **[Neoflex].**
-- :seedling: &nbsp;Сейчас изучаю **Kubernetes и облачные технологии**
+- :seedling: &nbsp;Сейчас изучаю **Kubernetes и облачные технологии.**
 - :speech_balloon: &nbsp;Люблю обсуждать **DevOps практики и автоматизацию**
 - :mailbox: &nbsp;Можете задать вопросы в **[Issues]**
 - :computer: &nbsp;Свяжитесь со мной в **[LinkedIn]**
