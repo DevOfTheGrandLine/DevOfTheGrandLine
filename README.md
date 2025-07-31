@@ -25,62 +25,67 @@
 
 <br>
 
-<h2 align="left" id="DevOfTheGrandLine-tech">Любимые технологии</h2>
-
-> Инструменты и языки, с которыми я предпочитаю работать.
+<h2 align="left" id="DevOfTheGrandLine-lang">Любимые языки программирования</h2>
 
 <table>
   <tr>
     <td align="center" width="96">
-      <a href="#DevOfTheGrandLine-tech">
+      <a href="#DevOfTheGrandLine-lang">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="48" height="48" alt="C" />
+      </a>
+      <br>C
+    </td>
+    <td align="center" width="96">
+      <a href="#DevOfTheGrandLine-lang">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" />
       </a>
       <br>C++
     </td>
     <td align="center" width="96">
-      <a href="#DevOfTheGrandLine-tech">
+      <a href="#DevOfTheGrandLine-lang">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="48" height="48" alt="Golang" />
       </a>
       <br>Go
     </td>
     <td align="center" width="96">
-      <a href="#DevOfTheGrandLine-tech">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <a href="#DevOfTheGrandLine-tech">
+      <a href="#DevOfTheGrandLine-lang">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" alt="Java" />
       </a>
       <br>Java
     </td>
     <td align="center" width="96">
-      <a href="#DevOfTheGrandLine-tech">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="48" height="48" alt="Terraform" />
+      <a href="#DevOfTheGrandLine-lang">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
       </a>
-      <br>Terraform
+      <br>Python
     </td>
     <td align="center" width="96">
-      <a href="#DevOfTheGrandLine-tech">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
+      <a href="#DevOfTheGrandLine-lang">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" width="48" height="48" alt="Rust" />
       </a>
-      <br>Docker
+      <br>Rust
     </td>
     <td align="center" width="96">
-      <a href="#DevOfTheGrandLine-tech">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" width="48" height="48" alt="Ansible" />
+      <a href="#DevOfTheGrandLine-lang">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg" width="48" height="48" alt="Haskell" />
       </a>
-      <br>Ansible
+      <br>Haskell
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
-      <a href="#DevOfTheGrandLine-tech">
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
+      <a href="#DevOfTheGrandLine-lang">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lisp/lisp-original.svg" width="48" height="48" alt="Lisp" />
       </a>
-      <br>K8s
+      <br>Lisp
     </td>
+  </tr>
+</table>
+
+<h2 align="left" id="DevOfTheGrandLine-tech">Любимые технологии</h2>
+
+<table>
+  <tr>
     <td align="center" width="96">
       <a href="#DevOfTheGrandLine-tech">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
@@ -92,6 +97,36 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="48" height="48" alt="Bash" />
       </a>
       <br>Bash
+    </td>
+    <td align="center" width="96">
+      <a href="#DevOfTheGrandLine-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
+      </a>
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <a href="#DevOfTheGrandLine-tech">
+        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
+      </a>
+      <br>Kuber
+    </td>
+    <td align="center" width="96">
+      <a href="#DevOfTheGrandLine-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" width="48" height="48" alt="Ansible" />
+      </a>
+      <br>Ansible
+    </td>
+    <td align="center" width="96">
+      <a href="#DevOfTheGrandLine-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="48" height="48" alt="Terraform" />
+      </a>
+      <br>Terraform
+    </td>
+    <td align="center" width="96">
+      <a href="#DevOfTheGrandLine-tech">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Yandex_cloud_logo.svg" width="48" height="48" alt="Yandex Cloud" />
+      </a>
+      <br>Yandex Cloud
     </td>
   </tr>
 </table>
@@ -107,4 +142,3 @@
 <!-- links -->
 
 [issues]: https://github.com/DevOfTheGrandLine/DevOfTheGrandLine/issues "DevOfTheGrandLine/issues"
-[linkedin]: https://www.linkedin.com/in/yourprofile "Ваш LinkedIn"
