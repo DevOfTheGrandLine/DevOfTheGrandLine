@@ -72,14 +72,6 @@
       <br>Haskell
     </td>
   </tr>
-  <tr>
-    <td align="center" width="96">
-      <a href="#DevOfTheGrandLine-lang">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lisp/lisp-original.svg" width="48" height="48" alt="Lisp" />
-      </a>
-      <br>Lisp
-    </td>
-  </tr>
 </table>
 
 <h2 align="left" id="DevOfTheGrandLine-tech">Любимые технологии</h2>
