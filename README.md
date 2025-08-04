@@ -29,49 +29,49 @@
       <a href="#DevOfTheGrandLine-lang">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="48" height="48" alt="C" />
       </a>
-      <br>C
+      <br>C<br>
       <sub>GTK • Libevent • SDL</sub>
     </td>
     <td align="center" width="96">
       <a href="#DevOfTheGrandLine-lang">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" />
       </a>
-      <br>C++
+      <br>C++<br>
       <sub>Qt • Boost • SFML</sub>
     </td>
     <td align="center" width="96">
       <a href="#DevOfTheGrandLine-lang">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="48" height="48" alt="Golang" />
       </a>
-      <br>Go
+      <br>Go<br>
       <sub>Gin • Beego • Revel</sub>
     </td>
     <td align="center" width="96">
       <a href="#DevOfTheGrandLine-lang">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" alt="Java" />
       </a>
-      <br>Java
+      <br>Java<br>
       <sub>Spring • Hibernate • Jakarta EE</sub>
     </td>
     <td align="center" width="96">
       <a href="#DevOfTheGrandLine-lang">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
       </a>
-      <br>Python
-      <sub>Django • Flask • FastAPI</sub>
+      <br>Python<br>
+      <sub>Django • Flask • FastAPI • ...</sub>
     </td>
     <td align="center" width="96">
       <a href="#DevOfTheGrandLine-lang">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" width="48" height="48" alt="Rust" />
       </a>
-      <br>Rust
+      <br>Rust<br>
       <sub>Rocket • Actix • Tokio</sub>
     </td>
     <td align="center" width="96">
       <a href="#DevOfTheGrandLine-lang">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg" width="48" height="48" alt="Haskell" />
       </a>
-      <br>Haskell
+      <br>Haskell<br>
       <sub>Yesod • Snap • Happstack</sub>
     </td>
   </tr>
