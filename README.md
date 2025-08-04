@@ -19,7 +19,9 @@
 
 - :office: &nbsp;Работаю в **[Neoflex].**
 
-<br><br><br>
+<br>
+<br>
+<br>
 
 <h2 align="left" id="DevOfTheGrandLine-lang">Языки и фреймворки</h2>
 
