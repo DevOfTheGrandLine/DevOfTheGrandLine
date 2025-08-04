@@ -17,11 +17,58 @@
   <img src="https://github-readme-stats.vercel.app/api?username=DevOfTheGrandLine&show_icons=true&theme=dark" alt="DevOfTheGrandLine" align="right" />
 </a>
 
-- :office: &nbsp;Работаю в **[Neoflex].**
+- :office: &nbsp;Работаю в **[Neoflex]** в роли **DevOps инженера** с фокусом на:
+  - :cloud: Облачные решения (Yandex Cloud, AWS)
+  - :gear: Автоматизацию CI/CD процессов
+  - :whale: Развертывание и поддержку Kubernetes-кластеров
+  - :file_folder: Инфраструктуру как код (Terraform, Ansible)
+  - :handshake: Разработку архитектуры микросервисных приложений
 
-<br>
-<br>
-<br>
+<h3>Дополнительные экспертизы</h3>
+
+<table>
+  <tr>
+    <td width="33%">
+      <h4 align="center">Разработка</h4>
+      <p align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40" height="40" alt="Go" />
+      </p>
+      <ul>
+        <li>:computer: Основной стек: Java/Spring, Python, Golang</li>
+        <li>:test_tube: Разработка высоконагруженных систем</li>
+        <li>:package: Контейнеризация приложений (Docker)</li>
+      </ul>
+    </td>
+    <td width="33%">
+      <h4 align="center">ML Engineering</h4>
+      <p align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="TensorFlow" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40" height="40" alt="PyTorch" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40" alt="Scikit-learn" />
+      </p>
+      <ul>
+        <li>:bar_chart: Разработка ML-пайплайнов</li>
+        <li>:robot: Внедрение моделей в production</li>
+        <li>:chart_with_upwards_trend: MLOps: мониторинг моделей</li>
+      </ul>
+    </td>
+    <td width="33%">
+      <h4 align="center">Cloud & DevOps</h4>
+      <p align="center">
+        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="40" height="40" alt="K8s" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="40" height="40" alt="Terraform" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" width="40" height="40" alt="Prometheus" />
+      </p>
+      <ul>
+        <li>:rocket: Миграция legacy-систем в облако</li>
+        <li>:triangular_flag_on_post: Построение отказоустойчивой инфраструктуры</li>
+        <li>:zap: Оптимизация процессов разработки</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 <h2 align="left" id="DevOfTheGrandLine-lang">Языки и фреймворки</h2>
 
