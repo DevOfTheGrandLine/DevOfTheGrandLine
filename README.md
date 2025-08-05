@@ -1,5 +1,5 @@
 <h1 align="left" id="DevOfTheGrandLine-title">:wave: Hello! I am Dmitry Konkin.</h1>
-<h3 align="left">Программист, идущий по сложному пути, как по Grand Line.</h3>
+<h3 align="left">Разработчик, идущий по сложному пути, как по Grand Line.</h3>
 
 <p align="left">
   <a href="https://github.com/DevOfTheGrandLine/DevOfTheGrandLine">
