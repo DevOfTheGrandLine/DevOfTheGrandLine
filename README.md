@@ -70,200 +70,220 @@
   </tr>
 </table>
 
-<h2 align="left" id="DevOfTheGrandLine-lang">Языки и фреймворки</h2>
+<h2 align="left" id="DevOfTheGrandLine-lang">:computer: Чек-лист языков и фреймворков</h2>
 
 <table>
   <tr>
-    <td align="center" width="96">
-      <a href="#DevOfTheGrandLine-lang">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="48" height="48" alt="C" />
-      </a>
-      <br>C<br>
-      <sub>GTK • Libevent • SDL</sub>
+    <th width="20%">Технология</th>
+    <th width="15%">Уровень</th>
+    <th width="65%">Критерии оценки</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="C" /><br>C
     </td>
-    <td align="center" width="96">
-      <a href="#DevOfTheGrandLine-lang">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" />
-      </a>
-      <br>C++<br>
-      <sub>Qt • Boost • SFML</sub>
+    <td align="center">★★★☆☆</td>
+    <td>
+      • Реализация сетевых приложений (Libevent)<br>
+      • Разработка GUI (GTK)<br>
+      • Оптимизация low-level кода
     </td>
-    <td align="center" width="96">
-      <a href="#DevOfTheGrandLine-lang">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="48" height="48" alt="Golang" />
-      </a>
-      <br>Go<br>
-      <sub>Gin • Beego • Revel</sub>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" /><br>C++
     </td>
-    <td align="center" width="96">
-      <a href="#DevOfTheGrandLine-lang">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" alt="Java" />
-      </a>
-      <br>Java<br>
-      <sub>Spring • Hibernate • Jakarta EE</sub>
+    <td align="center">★★★★☆</td>
+    <td>
+      • Разработка desktop-приложений (Qt)<br>
+      • Использование STL и Boost<br>
+      • Мультипоточное программирование
     </td>
-    <td align="center" width="96">
-      <a href="#DevOfTheGrandLine-lang">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
-      </a>
-      <br>Python<br>
-      <sub>Django • Flask • FastAPI • ...</sub>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40" height="40" alt="Golang" /><br>Go
     </td>
-    <td align="center" width="96">
-      <a href="#DevOfTheGrandLine-lang">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" width="48" height="48" alt="Rust" />
-      </a>
-      <br>Rust<br>
-      <sub>Rocket • Actix • Tokio</sub>
+    <td align="center">★★★★★</td>
+    <td>
+      • Разработка микросервисов (Gin)<br>
+      • Создание CLI-утилит<br>
+      • Конкурентное программирование (goroutines)
     </td>
-    <td align="center" width="96">
-      <a href="#DevOfTheGrandLine-lang">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg" width="48" height="48" alt="Haskell" />
-      </a>
-      <br>Haskell<br>
-      <sub>Yesod • Snap • Happstack</sub>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java" /><br>Java
+    </td>
+    <td align="center">★★★★★</td>
+    <td>
+      • Enterprise-разработка (Spring Boot)<br>
+      • Создание REST API<br>
+      • Интеграция с БД (Hibernate)<br>
+      • Тестирование (JUnit, Mockito)
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python" /><br>Python
+    </td>
+    <td align="center">★★★★☆</td>
+    <td>
+      • Веб-разработка (Django/Flask)<br>
+      • Создание API (FastAPI)<br>
+      • Автоматизация задач<br>
+      • Интеграция с ML-моделями
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" width="40" height="40" alt="Rust" /><br>Rust
+    </td>
+    <td align="center">★★☆☆☆</td>
+    <td>
+      • Базовое понимание ownership<br>
+      • Создание простых CLI-инструментов<br>
+      • Изучение async-программирования (Tokio)
     </td>
   </tr>
 </table>
 
-<h2 align="left" id="DevOfTheGrandLine-devops">DevOps Инструменты</h2>
+<h2 align="left" id="DevOfTheGrandLine-devops">:gear: Чек-лист DevOps компетенций</h2>
 
 <table>
   <tr>
-    <td align="center" width="96">
-      <a href="#DevOfTheGrandLine-devops">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
-      </a>
-      <br>Linux
+    <th width="20%">Инструмент</th>
+    <th width="15%">Уровень</th>
+    <th width="65%">Критерии оценки</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" /><br>Docker
     </td>
-    <td align="center" width="96">
-      <a href="#DevOfTheGrandLine-devops">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="48" height="48" alt="Bash" />
-      </a>
-      <br>Bash
-    </td>
-    <td align="center" width="96">
-      <a href="#DevOfTheGrandLine-devops">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
-      </a>
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-      <a href="#DevOfTheGrandLine-devops">
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
-      </a>
-      <br>Kuber
-    </td>
-    <td align="center" width="96">
-      <a href="#DevOfTheGrandLine-devops">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" width="48" height="48" alt="Ansible" />
-      </a>
-      <br>Ansible
-    </td>
-    <td align="center" width="96">
-      <a href="#DevOfTheGrandLine-devops">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="48" height="48" alt="Terraform" />
-      </a>
-      <br>Terraform
-    </td>
-    <td align="center" width="96">
-      <a href="#DevOfTheGrandLine-devops">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Yandex_cloud_logo.svg" width="48" height="48" alt="Yandex Cloud" />
-      </a>
-      <br>Yandex Cloud
+    <td align="center">★★★★★</td>
+    <td>
+      • Создание оптимизированных образов<br>
+      • Управление Docker Swarm<br>
+      • Безопасность контейнеров<br>
+      • Docker Compose для локальной разработки
     </td>
   </tr>
   <tr>
-    <td align="center" width="96">
-      <a href="#DevOfTheGrandLine-devops">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="48" height="48" alt="Jenkins" />
-      </a>
-      <br>Jenkins
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="40" height="40" alt="Kubernetes" /><br>Kubernetes
     </td>
-    <td align="center" width="96">
-      <a href="#DevOfTheGrandLine-devops">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" width="48" height="48" alt="Prometheus" />
-      </a>
-      <br>Prometheus
+    <td align="center">★★★★☆</td>
+    <td>
+      • Развертывание production-кластеров<br>
+      • Настройка Helm-чартов<br>
+      • Управление StatefulSets<br>
+      • Настройка network policies
     </td>
-    <td align="center" width="96">
-      <a href="#DevOfTheGrandLine-devops">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" width="48" height="48" alt="Grafana" />
-      </a>
-      <br>Grafana
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="40" height="40" alt="Terraform" /><br>Terraform
     </td>
-    <td align="center" width="96">
-      <a href="#DevOfTheGrandLine-devops">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="48" height="48" alt="Nginx" />
-      </a>
-      <br>Nginx
+    <td align="center">★★★★☆</td>
+    <td>
+      • Инфраструктура как код<br>
+      • Модульная архитектура<br>
+      • Работа с несколькими провайдерами<br>
+      • Управление state-файлами
     </td>
-    <td align="center" width="96">
-      <a href="#DevOfTheGrandLine-devops">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" width="48" height="48" alt="GitLab" />
-      </a>
-      <br>GitLab CI
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Yandex_cloud_logo.svg" width="40" height="40" alt="Yandex Cloud" /><br>Yandex Cloud
     </td>
-    <td align="center" width="96">
-      <a href="#DevOfTheGrandLine-devops">
-        <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="48" height="48" alt="GitHub Actions" />
-      </a>
-      <br>GitHub Actions
+    <td align="center">★★★★☆</td>
+    <td>
+      • Развертывание Managed Kubernetes<br>
+      • Настройка Yandex Object Storage<br>
+      • Управление сетевыми ресурсами<br>
+      • Автоматизация через CLI/SDK
     </td>
-    <td align="center" width="96">
-      <a href="#DevOfTheGrandLine-devops">
-        <img src="https://cncf-branding.netlify.app/img/projects/helm/icon/color/helm-icon-color.svg" width="48" height="48" alt="Helm" />
-      </a>
-      <br>Helm
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" width="40" height="40" alt="GitLab" /><br>GitLab CI
+    </td>
+    <td align="center">★★★★★</td>
+    <td>
+      • Создание многостадийных пайплайнов<br>
+      • Оптимизация времени сборки<br>
+      • Настройка окружений<br>
+      • Интеграция с Kubernetes
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" width="40" height="40" alt="Prometheus" /><br>Prometheus
+    </td>
+    <td align="center">★★★★☆</td>
+    <td>
+      • Настройка экспортеров<br>
+      • Создание кастомных метрик<br>
+      • Написание alerting rules<br>
+      • Интеграция с Grafana
     </td>
   </tr>
 </table>
 
-<h2 align="left" id="DevOfTheGrandLine-ml">Машинное обучение</h2>
+<h2 align="left" id="DevOfTheGrandLine-ml">:brain: Чек-лист ML компетенций</h2>
 
 <table>
   <tr>
-    <td align="center" width="96">
-      <a href="#DevOfTheGrandLine-ml">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="48" height="48" alt="TensorFlow" />
-      </a>
-      <br>TensorFlow
+    <th width="20%">Технология</th>
+    <th width="15%">Уровень</th>
+    <th width="65%">Критерии оценки</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="TensorFlow" /><br>TensorFlow
     </td>
-    <td align="center" width="96">
-      <a href="#DevOfTheGrandLine-ml">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="48" height="48" alt="PyTorch" />
-      </a>
-      <br>PyTorch
+    <td align="center">★★★★☆</td>
+    <td>
+      • Создание нейронных сетей<br>
+      • Работа с TF Serving<br>
+      • Использование TF Extended (TFX)<br>
+      • Оптимизация моделей
     </td>
-    <td align="center" width="96">
-      <a href="#DevOfTheGrandLine-ml">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" height="48" alt="Scikit-learn" />
-      </a>
-      <br>Scikit-learn
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40" height="40" alt="PyTorch" /><br>PyTorch
     </td>
-    <td align="center" width="96">
-      <a href="#DevOfTheGrandLine-ml">
-        <img src="https://keras.io/img/logo.png" width="48" height="48" alt="Keras" />
-      </a>
-      <br>Keras
+    <td align="center">★★★☆☆</td>
+    <td>
+      • Разработка исследовательских моделей<br>
+      • Использование TorchServe<br>
+      • Работа с трансформерами<br>
+      • Кастомные слои и функции
     </td>
-    <td align="center" width="96">
-      <a href="#DevOfTheGrandLine-ml">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" />
-      </a>
-      <br>Pandas
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40" alt="Scikit-learn" /><br>Scikit-learn
     </td>
-    <td align="center" width="96">
-      <a href="#DevOfTheGrandLine-ml">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy" />
-      </a>
-      <br>NumPy
+    <td align="center">★★★★★</td>
+    <td>
+      • Построение ML-пайплайнов<br>
+      • Feature engineering<br>
+      • Кросс-валидация<br>
+      • Подбор гиперпараметров
     </td>
-    <td align="center" width="96">
-      <a href="#DevOfTheGrandLine-ml">
-        <img src="https://matplotlib.org/_static/logo2_compressed.svg" width="48" height="48" alt="Matplotlib" />
-      </a>
-      <br>Matplotlib
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas" /><br>Pandas
+    </td>
+    <td align="center">★★★★★</td>
+    <td>
+      • Обработка больших датасетов<br>
+      • Временные ряды<br>
+      • Оптимизация операций<br>
+      • Интеграция с базами данных
     </td>
   </tr>
 </table>
