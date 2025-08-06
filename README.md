@@ -334,18 +334,20 @@
 
 <h2 align="left">:mailbox_with_mail: Как связаться</h2>
 <p>
-  :email: Email:  <a href="#">conkindima@gmail.com<br>
-  :speech_balloon: Telegram:  <a href="#">@Panda_DimaK</a>
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email">
+  <a href="mailto:conkindima@gmail.com">conkindima@gmail.com</a><br><br>
+  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram">
+  <a href="https://t.me/Panda_DimaK">@Panda_DimaK</a>
 </p>
 <div align="right">
   <a href="#DevOfTheGrandLine-title">:arrow_up: Наверх</a>
 </div>
 
-<h2 align="left">Активность</h2>
-<!-- GitHub Stats -->
-![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=DevOfTheGrandLine&theme=dark)
-<!-- Most Used Languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevOfTheGrandLine&layout=compact&theme=dark)
+<h2 align="left">:bar_chart: Активность</h2>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevOfTheGrandLine&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevOfTheGrandLine&layout=compact&theme=dark&card_width=480" alt="Top Languages" />
+</div>
 <div align="right">
   <a href="#DevOfTheGrandLine-title">:arrow_up: Наверх</a>
 </div>
