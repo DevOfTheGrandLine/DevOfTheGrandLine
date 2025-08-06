@@ -343,10 +343,12 @@
   <a href="#DevOfTheGrandLine-title">:arrow_up: Наверх</a>
 </div>
 
-<h2 align="left">:bar_chart: Активность</h2>
+<h2 align="left">:trophy: Достижения и активность</h2>
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevOfTheGrandLine&theme=dark" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevOfTheGrandLine&layout=compact&theme=dark&card_width=480" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevOfTheGrandLine&theme=dark&border_radius=10&bg_color=0d1117&layout=compact" alt="Languages" width="40%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevOfTheGrandLine&theme=dark&border_radius=10" alt="Streak" width="45%" />
+</div>
 </div>
 <div align="right">
   <a href="#DevOfTheGrandLine-title">:arrow_up: Наверх</a>
