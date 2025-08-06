@@ -15,11 +15,13 @@
   <img src="https://github-readme-stats.vercel.app/api?username=DevOfTheGrandLine&show_icons=true&theme=dark" alt="DevOfTheGrandLine" align="right" />
 </a>
 - :office: &nbsp;Работаю в **[Neoflex]** в роли **DevOps инженера** с фокусом на:
-  - :cloud: Облачные решения (Yandex Cloud, AWS)
-  - :gear: Автоматизацию CI/CD процессов
-  - :whale: Развертывание и поддержку Kubernetes-кластеров
-  - :file_folder: Инфраструктуру как код (Terraform, Ansible)
-  - :handshake: Разработку архитектуры микросервисных приложений
+<ul>
+  <li>- :cloud: Облачные решения (Yandex Cloud, AWS)</li>
+  <li>- :gear: Автоматизацию CI/CD процессов</li>
+  <li>- :whale: Развертывание и поддержку Kubernetes-кластеров</li>
+  <li>- :file_folder: Инфраструктуру как код (Terraform, Ansible)</li>
+  <li>- :handshake: Разработку архитектуры микросервисных приложений</li>
+</ul>
 <h3>Дополнительные экспертизы</h3>
 <table>
   <tr>
