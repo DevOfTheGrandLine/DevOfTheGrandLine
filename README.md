@@ -14,7 +14,7 @@
 <a href="#DevOfTheGrandLine-title">
   <img src="https://github-readme-stats.vercel.app/api?username=DevOfTheGrandLine&show_icons=true&theme=dark" alt="DevOfTheGrandLine" align="right" />
 </a>
-- :office: &nbsp;Работаю в **[Neoflex]** в роли **DevOps инженера** с фокусом на:
+- :office: &nbsp;Работаю в Neoflex в роли DevOps инженера с фокусом на:
 <ul>
   <li>- :cloud: Облачные решения (Yandex Cloud, AWS)</li>
   <li>- :gear: Автоматизацию CI/CD процессов</li>
