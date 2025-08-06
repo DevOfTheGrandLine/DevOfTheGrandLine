@@ -16,7 +16,7 @@
 </a>
 - :office: &nbsp;Работаю в Neoflex в роли DevOps инженера с фокусом на:
 <ul>
-  <li>- :cloud: Облачные решения (Yandex Cloud, AWS)</li>
+  <li>- :cloud: Облачные решения (Yandex Cloud)</li>
   <li>- :gear: Автоматизацию CI/CD процессов</li>
   <li>- :whale: Развертывание и поддержку Kubernetes-кластеров</li>
   <li>- :file_folder: Инфраструктуру как код (Terraform, Ansible)</li>
@@ -74,7 +74,6 @@
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go">
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
   <img src="https://img.shields.io/badge/Yandex_Cloud-FFCC00?style=for-the-badge&logo=yandex-cloud&logoColor=black" alt="Yandex Cloud">
   <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
