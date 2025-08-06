@@ -314,6 +314,7 @@
   <a href="#DevOfTheGrandLine-title">:arrow_up: Наверх</a>
 </div>
 
+<!-- 
 <h2 align="left">:rocket: Последние проекты</h2>
 <table>
   <tr>
@@ -326,11 +327,14 @@
 <div align="right">
   <a href="#DevOfTheGrandLine-title">:arrow_up: Наверх</a>
 </div>
+-->
 
+<!-- 
 <h2 align="left">:books: Образование и сертификаты</h2>
 <div align="right">
   <a href="#DevOfTheGrandLine-title">:arrow_up: Наверх</a>
 </div>
+-->
 
 <h2 align="left">:mailbox_with_mail: Как связаться</h2>
 <p>
