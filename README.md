@@ -346,8 +346,8 @@
 <h2 align="left">:trophy: Достижения и активность</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevOfTheGrandLine&theme=dark&border_radius=10&bg_color=0d1117&layout=compact" alt="Languages" width="40%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevOfTheGrandLine&theme=dark&border_radius=10" alt="Streak" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevOfTheGrandLine&theme=dark&border_radius=10&bg_color=0d1117&layout=compact" alt="Languages" width="20%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevOfTheGrandLine&theme=dark&border_radius=10" alt="Streak" width="40%" />
 </div>
 </div>
 <div align="right">
