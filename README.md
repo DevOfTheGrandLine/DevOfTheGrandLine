@@ -16,11 +16,11 @@
 </a>
 - :office: &nbsp;Работаю в Neoflex в роли DevOps инженера с фокусом на:
 <ul>
-  <li>- :cloud: Облачные решения (Yandex Cloud)</li>
-  <li>- :gear: Автоматизацию CI/CD процессов</li>
-  <li>- :whale: Развертывание и поддержку Kubernetes-кластеров</li>
-  <li>- :file_folder: Инфраструктуру как код (Terraform, Ansible)</li>
-  <li>- :handshake: Разработку архитектуры микросервисных приложений</li>
+  <li> :cloud: Облачные решения (Yandex Cloud)</li>
+  <li> :gear: Автоматизацию CI/CD процессов</li>
+  <li> :whale: Развертывание и поддержку Kubernetes-кластеров</li>
+  <li> :file_folder: Инфраструктуру как код (Terraform, Ansible)</li>
+  <li> :handshake: Разработку архитектуры микросервисных приложений</li>
 </ul>
 <h3>Дополнительные экспертизы</h3>
 <table>
