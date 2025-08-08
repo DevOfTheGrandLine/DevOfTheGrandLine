@@ -351,7 +351,7 @@
 
 <div align="left
 ">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevOfTheGrandLine&theme=dark&border_radius=10&bg_color=0d1117&layout=compact" alt="Languages" width="30%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevOfTheGrandLine&theme=dark&border_radius=10&bg_color=0d1117&layout=compact" alt="Languages" width="30%" /><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevOfTheGrandLine&theme=dark&border_radius=10" alt="Streak" width="50%" />
 </div>
 </div>
