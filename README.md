@@ -82,7 +82,7 @@
   <a href="#DevOfTheGrandLine-title">:arrow_up: Наверх</a>
 </div>
 
-<h2 align="left" id="DevOfTheGrandLine-lang">:computer: Чек-лист языков и фреймворков</h2>
+<h2 align="left" id="DevOfTheGrandLine-lang">:computer: Чек-лист языков и фреймворков.</h2>
 <table>
   <tr>
     <th width="20%">Технология</th>
