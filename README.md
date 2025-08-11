@@ -33,9 +33,9 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40" height="40" alt="Go" />
       </p>
       <ul>
-        <li>:computer: Основной стек: Java/Spring, Python, Golang</li>
-        <li>:test_tube: Разработка высоконагруженных систем</li>
-        <li>:package: Контейнеризация приложений (Docker)</li>
+        <li>:computer: Основной стек: Java/Spring, Python, Golang.</li>
+        <li>:test_tube: Разработка высоконагруженных систем.</li>
+        <li>:package: Контейнеризация приложений (Docker).</li>
       </ul>
     </td>
     <td width="33%">
